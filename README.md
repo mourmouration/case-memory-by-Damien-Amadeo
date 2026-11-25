@@ -1,5 +1,7 @@
 # Case Memory
 
+[![Tests](https://github.com/mourmouration/case-memory-by-Damien-Amadeo/actions/workflows/tests.yml/badge.svg)](https://github.com/mourmouration/case-memory-by-Damien-Amadeo/actions/workflows/tests.yml) [![License: CM-NCL 1.0](https://img.shields.io/badge/license-CM--NCL%201.0-blue)](LICENSE)
+
 Persistent Markdown-based project and legal case memory for AI agents. Created by Damien Amadeo.
 
 [Русская версия](README.ru.md) | [License](LICENSE)
@@ -18,7 +20,7 @@ Case Memory separates project knowledge from personal preferences and preserves 
 
 ## Installation
 
-Download the repository ZIP from GitHub (Code > Download ZIP), extract it and copy the complete `case-memory` folder (including SKILL.md, references and scripts) into the agent's skills directory. Rename the extracted folder to `case-memory` if necessary.
+Download the repository ZIP from [GitHub (Code > Download ZIP)](https://github.com/mourmouration/case-memory-by-Damien-Amadeo/archive/refs/heads/main.zip), extract it and copy the complete `case-memory` folder (including SKILL.md, references and scripts) into the agent's skills directory. Rename the extracted folder to `case-memory` if necessary.
 
 - Claude Code: `~/.claude/skills/case-memory/` (personal) or `.claude/skills/case-memory/` (project).
 - Codex: `.agents/skills/case-memory/` in the project. Restart or reload the agent if needed.
