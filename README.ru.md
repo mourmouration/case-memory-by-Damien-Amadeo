@@ -1,5 +1,7 @@
 # Case Memory
 
+[![Tests](https://github.com/mourmouration/case-memory-by-Damien-Amadeo/actions/workflows/tests.yml/badge.svg)](https://github.com/mourmouration/case-memory-by-Damien-Amadeo/actions/workflows/tests.yml) [![License: CM-NCL 1.0](https://img.shields.io/badge/license-CM--NCL%201.0-blue)](LICENSE)
+
 Долговременная файловая память по юридическим делам и проектам для ИИ-агентов. Автор: Damien Amadeo.
 
 [English](README.md) | [Лицензия](LICENSE)
@@ -16,7 +18,7 @@
 
 ## Установка
 
-Скачайте ZIP репозитория через Code > Download ZIP, распакуйте и переименуйте папку с SKILL.md в case-memory. Устанавливайте всю папку вместе с references и scripts.
+Скачайте [ZIP репозитория](https://github.com/mourmouration/case-memory-by-Damien-Amadeo/archive/refs/heads/main.zip) через Code > Download ZIP, распакуйте и переименуйте папку с SKILL.md в case-memory. Устанавливайте всю папку вместе с references и scripts.
 
 - Claude Code: `~/.claude/skills/case-memory/` или `.claude/skills/case-memory/` в проекте.
 - Codex: `.agents/skills/case-memory/` в проекте.
