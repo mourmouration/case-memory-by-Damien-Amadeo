@@ -1,0 +1,20 @@
+# Private project memory and local case data
+0.3. Memory/
+MEMORY/
+memory/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
